@@ -1,0 +1,1 @@
+# Program-To-Obtain-The-Reversed-Five-Digit-Number
